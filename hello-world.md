@@ -5,27 +5,20 @@
 It is traditional for your first program in a new language to be [Hello, World](https://en.m.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
 - Create a folder wherever you like
-- Put a new file in it called `hello.go` and put the following code inside it
+- Put a new file in it called `hello.rb` and put the following code inside it
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, world")
-}
+```ruby
+puts 'Hello, World!'
 ```
 
-To run it type `go run hello.go`.
+To run it type `ruby hello.rb`.
 
-## How it works
+## Congrats! You're now a developer
 
-When you write a program in Go you will have a `main` package defined with a `main` func inside it. Packages are ways of grouping up related Go code together.
+Ruby Ruby is a scripting language created by Yukihiro Matsumoto (a.k.a Matz)
+When you write a program in Ruby, It's a good practice put them into files ended with `.rb`.
 
-The `func` keyword is how you define a function with a name and a body.
-
-With `import "fmt"` we are importing a package which contains the `Println` function that we use to print.
+In this simple program we used a method called `puts` to print our "Hello, World!" to the screen.
 
 ## How to test
 

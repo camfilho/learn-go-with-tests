@@ -16,9 +16,9 @@ To run it type `ruby hello.rb`.
 ## Congrats! You're now a developer
 
 Ruby Ruby is a scripting language created by Yukihiro Matsumoto (a.k.a Matz)
-When you write a program in Ruby, It's a good practice put them into files ended with `.rb`.
+When you write a program in Ruby, It's a good practice to put them into files ended with `.rb`.
 
-In this simple program we used a method called `puts` to print our "Hello, World!" to the screen.
+In this simple program, we used a method called `puts` to print our "Hello, World!" to the screen.
 
 ## How to test
 
